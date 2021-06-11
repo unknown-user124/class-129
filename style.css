@@ -1,0 +1,33 @@
+#h3tagtime {
+    width:100%;
+    font-size: 18px;
+}
+body {
+    background-size: cover;
+}
+.divTAG123 {
+    float:left;
+}
+.imgimage {
+    width:300px;
+    height: 300px;
+}
+
+.divTAG1234 {
+    float: right;
+}
+
+#playsound {
+    width:130px;
+    height:50px;
+}
+#stopsound {
+    width:130px;
+    height:50px;
+}
+
+canvas {
+    border:5px solid white;
+    border-radius: 20px;
+    
+}
